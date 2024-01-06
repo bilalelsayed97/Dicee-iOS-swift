@@ -1,1 +1,1 @@
-<video src="https://video.ts">
+<video src="video.ts">
